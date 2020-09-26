@@ -1,0 +1,7 @@
+
+Stack Overflow este un site web de întrebări și răspunsuri din domeniul programării.
+Pentru a posta întrebări sau răspunsuri nu e neapărat necesar un cont de utilizator, având posibilitatea de a răspunde ca si vizitator de asemenea utilizând un nume si un email pentru a putea fi identificat. 
+Utilizatorii pot vota la întrebări sau răspunsuri de pe săgețile din dreptul acestora daca a fost de ajutor întrebarea/răspunsul. 
+Întrebările pot fi închise daca acestea nu mai sunt relevante sau la zi, iar utilizatorii nu mai pot răspunde sau vota.  
+Răspunsurile pot fi filtrate pe categorii ca si număr de voturi, active sau cele mai vechi. Acestea pot primii comentarii de la utilizatori pentru a ne atrage atenția daca sunt de folos sau nu.
+Utilizatorii pot fi si ei căutați si filtrați după anumite criterii precum reputație, utilizatori noi, editori, moderatori si utilizatori care votează des.
