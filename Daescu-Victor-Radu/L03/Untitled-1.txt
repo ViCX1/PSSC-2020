@@ -1,3 +1,4 @@
+
 Bounded context: "Question"
 Workflow "Post Question"
 	Triggered by: "User question posting request received" 
